@@ -3,6 +3,7 @@
 <p align="center">
     <a href="https://github.com/marshmallow3210" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@marshmallow3210-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://hackmd.io/@marshmallow3210" target="_blank"><img alt="HackMD" src="https://img.shields.io/badge/HackMD-marshmallow3210-blue"></a>
+    <a href="https://www.youtube.com/@marshmallow3210" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@marshmallow3210-red"></a>
 </p>
 
 <!--
